@@ -1,6 +1,6 @@
 # Emotional Sentiment Analysis and Predictive Model
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedx/Emotional_Sentiment_Analysis_and_Predictive_Model/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedxx/single-modal-emotion-detection/blob/main/LICENSE)
 
 ## Overview
 
@@ -24,8 +24,8 @@ This repository contains the code and resources for an Emotional Sentiment Analy
 To set up the project:
 
 ```bash
-git clone https://github.com/ahmedembeddedx/Emotion_Sentiment_Analysis_and_Predictive_Model.git
-cd Emotion_Sentiment_Analysis_and_Predictive_Model
+git clone https://github.com/ahmedembeddedxx/single-modal-emotion-detection.git
+cd single-modal-emotion-detection
 
 ```
 
